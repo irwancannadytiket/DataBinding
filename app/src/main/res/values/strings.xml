@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="harga">Harga: Rp.30.000</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="result">0</string>
+    <string name="total">Total : </string>
+</resources>
